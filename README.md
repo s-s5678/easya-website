@@ -1,4 +1,4 @@
-# EasyA Website
+# Easy Website
 
 This is the source code for [EasyA](https://easya.io/).
 
